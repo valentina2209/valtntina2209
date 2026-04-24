@@ -6,7 +6,7 @@ I have experience building responsive interfaces, React applications, and integr
 
 ## 🚀 Featured Projects
 
-- [Green Harvest](https://github.com/valentina2209/GreenHarvest-project-group-13) – responsive landing page  
+- [Pet Love](https://github.com/valentina2209/petlove) – React app + TypeScript and responsive landing page  
 - [Contacts App](https://github.com/valentina2209/Contact-app) – React app with localStorage  
 - [Rental Car](https://github.com/valentina2209/RentalCar) – React Router + API integration
 
